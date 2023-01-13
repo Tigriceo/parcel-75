@@ -1,4 +1,7 @@
+@import '../../node_modules/swiper/swiper-bundle.min.css';
+@import '../../node_modules/aos/dist/aos.css';
 @import './common';
 @import './vars';
-@import './example';
+
 @import './loyauts/section-hero';
+@import './sections/section_slider';
